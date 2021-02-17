@@ -24,6 +24,7 @@
 Aplicação aprensenta as ferramentas e práticas mais recentes em desenvolvimento de interfaces web.
 
 - ⚛ **React** — Biblioteca para construção de interfaces
+- :ballot_box_with_check: **TypeScript** — Biblioteca de tipagem do JS.
 - 💅 **CSS** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
