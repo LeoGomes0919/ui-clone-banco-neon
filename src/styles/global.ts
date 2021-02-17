@@ -9,7 +9,7 @@ const CreateGlobalStyle = createGlobalStyle`
     list-style: none;
     text-decoration: none;
 
-    font-family: 'Roboto',Helvetica,sans-serif;
+    font-family: 'Averta-Regular',Helvetica,sans-serif;
     -webkit-font-smoothing: antialiased;
   }
 
